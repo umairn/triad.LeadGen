@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.2",
+    "libraryName": "lead-gen-webpart",
+    "libraryId": "7ba14384-8f22-47e3-9ac7-04b20ddb987b",
+    "environment": "spo"
+  }
+}
